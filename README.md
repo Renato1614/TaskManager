@@ -167,7 +167,7 @@ Observed environment blockers:
 - NuGet reported vulnerability warnings for transitive packages including `Microsoft.OpenApi`, `SSH.NET`, and `MessagePack`; review and upgrade package versions when newer compatible releases are available.
 
 
-# Use of AI Tools
+# Use of Generative AI
 
 This file documents how AI was used in this technical interview project.
 
